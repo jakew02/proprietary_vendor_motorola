@@ -65,6 +65,7 @@ PRODUCT_COPY_FILES := \
 	vendor/motorola/shamu/proprietary/etc/qmi_fw.conf:system/etc/qmi_fw.conf \
 	vendor/motorola/shamu/proprietary/etc/sap.conf:system/etc/sap.conf \
 	vendor/motorola/shamu/proprietary/etc/Speaker_cal.acdb:system/etc/Speaker_cal.acdb \
+	vendor/motorola/shamu/proprietary/etc/fmas_eq.dat:system/etc/fmas_eq.dat \
 	vendor/motorola/shamu/proprietary/etc/thermal-engine-shamu.conf:system/etc/thermal-engine-shamu.conf \
 	vendor/motorola/shamu/proprietary/etc/diag/FIT_V12.cfg:system/etc/diag/FIT_V12.cfg \
 	vendor/motorola/shamu/proprietary/etc/diag/FIT_V12.cfg:system/etc/diag/mdm/FIT_V12.cfg \
@@ -108,6 +109,7 @@ PRODUCT_COPY_FILES := \
 	vendor/motorola/shamu/proprietary/lib/librecoglib.so:system/lib/librecoglib.so \
 	vendor/motorola/shamu/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
 	vendor/motorola/shamu/proprietary/lib/libsupermodel.so:system/lib/libsupermodel.so \
+	vendor/motorola/shamu/proprietary/lib/soundfx/libfmas.so:system/lib/soundfx/libfmas.so \
 	vendor/motorola/shamu/proprietary/lib/libtinycompress.so:system/lib/libtinycompress.so \
 	vendor/motorola/shamu/proprietary/lib/libtrainingcheck.so:system/lib/libtrainingcheck.so \
 	vendor/motorola/shamu/proprietary/lib/hw/audio.motvr.default.so:system/lib/hw/audio.motvr.default.so \
