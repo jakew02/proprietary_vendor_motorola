@@ -356,7 +356,6 @@ PRODUCT_COPY_FILES := \
 	vendor/motorola/shamu/proprietary/vendor/lib/libsensor_reg.so:system/vendor/lib/libsensor_reg.so \
 	vendor/motorola/shamu/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
 	vendor/motorola/shamu/proprietary/vendor/lib/libthermalioctl.so:system/vendor/lib/libthermalioctl.so \
-	vendor/motorola/shamu/proprietary/vendor/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so \
 	vendor/motorola/shamu/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so \
 	vendor/motorola/shamu/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
 	vendor/motorola/shamu/proprietary/vendor/lib/egl/eglsubAndroid.so:system/vendor/lib/egl/eglsubAndroid.so \
