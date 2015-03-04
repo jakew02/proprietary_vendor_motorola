@@ -15,7 +15,6 @@
 $(call inherit-product, vendor/motorola/shamu/shamu-vendor-blobs.mk)
 
 PRODUCT_PACKAGES += \
-    TimeService \
     TriggerEnroll \
     TriggerTrainingService
 
