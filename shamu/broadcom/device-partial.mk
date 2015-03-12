@@ -15,6 +15,4 @@
 # Broadcom blob(s) necessary for Shamu hardware
 PRODUCT_COPY_FILES := \
     vendor/motorola/shamu/broadcom/proprietary/bcm20795_firmware.ncd:system/vendor/firmware/bcm20795_firmware.ncd:broadcom \
-    vendor/motorola/shamu/broadcom/proprietary/bcm4354A2.hcd:system/vendor/firmware/bcm4354A2.hcd:broadcom \
-    vendor/motorola/shamu/broadcom/proprietary/wlutil:system/xbin/wlutil:broadcom \
-
+    vendor/motorola/shamu/broadcom/proprietary/bcm4354A2.hcd:system/vendor/firmware/bcm4354A2.hcd:broadcom

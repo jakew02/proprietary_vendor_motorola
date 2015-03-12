@@ -17,36 +17,17 @@ PRODUCT_COPY_FILES := \
     vendor/motorola/shamu/qcom/proprietary/bridgemgrd:system/bin/bridgemgrd:qcom \
     vendor/motorola/shamu/qcom/proprietary/diag_klog:system/bin/diag_klog:qcom \
     vendor/motorola/shamu/qcom/proprietary/diag_mdlog:system/bin/diag_mdlog:qcom \
-    vendor/motorola/shamu/qcom/proprietary/diag_qshrink4_daemon:system/bin/diag_qshrink4_daemon:qcom \
     vendor/motorola/shamu/qcom/proprietary/irsc_util:system/bin/irsc_util:qcom \
     vendor/motorola/shamu/qcom/proprietary/ks:system/bin/ks:qcom \
     vendor/motorola/shamu/qcom/proprietary/mdm_helper:system/bin/mdm_helper:qcom \
     vendor/motorola/shamu/qcom/proprietary/mm-qcamera-daemon:system/bin/mm-qcamera-daemon:qcom \
     vendor/motorola/shamu/qcom/proprietary/mpdecision:system/bin/mpdecision:qcom \
     vendor/motorola/shamu/qcom/proprietary/netmgrd:system/bin/netmgrd:qcom \
-    vendor/motorola/shamu/qcom/proprietary/PktRspTest:system/bin/PktRspTest:qcom \
     vendor/motorola/shamu/qcom/proprietary/port-bridge:system/bin/port-bridge:qcom \
-    vendor/motorola/shamu/qcom/proprietary/qmi_ping_clnt_test_0000:system/bin/qmi-framework-tests/qmi_ping_clnt_test_0000:qcom \
-    vendor/motorola/shamu/qcom/proprietary/qmi_ping_clnt_test_0001:system/bin/qmi-framework-tests/qmi_ping_clnt_test_0001:qcom \
-    vendor/motorola/shamu/qcom/proprietary/qmi_ping_clnt_test_1000:system/bin/qmi-framework-tests/qmi_ping_clnt_test_1000:qcom \
-    vendor/motorola/shamu/qcom/proprietary/qmi_ping_clnt_test_1001:system/bin/qmi-framework-tests/qmi_ping_clnt_test_1001:qcom \
-    vendor/motorola/shamu/qcom/proprietary/qmi_ping_clnt_test_2000:system/bin/qmi-framework-tests/qmi_ping_clnt_test_2000:qcom \
-    vendor/motorola/shamu/qcom/proprietary/qmi_ping_svc:system/bin/qmi-framework-tests/qmi_ping_svc:qcom \
-    vendor/motorola/shamu/qcom/proprietary/qmi_ping_test:system/bin/qmi-framework-tests/qmi_ping_test:qcom \
-    vendor/motorola/shamu/qcom/proprietary/qmi_test_service_clnt_test_0000:system/bin/qmi-framework-tests/qmi_test_service_clnt_test_0000:qcom \
-    vendor/motorola/shamu/qcom/proprietary/qmi_test_service_clnt_test_0001:system/bin/qmi-framework-tests/qmi_test_service_clnt_test_0001:qcom \
-    vendor/motorola/shamu/qcom/proprietary/qmi_test_service_clnt_test_1000:system/bin/qmi-framework-tests/qmi_test_service_clnt_test_1000:qcom \
-    vendor/motorola/shamu/qcom/proprietary/qmi_test_service_clnt_test_1001:system/bin/qmi-framework-tests/qmi_test_service_clnt_test_1001:qcom \
-    vendor/motorola/shamu/qcom/proprietary/qmi_test_service_clnt_test_2000:system/bin/qmi-framework-tests/qmi_test_service_clnt_test_2000:qcom \
-    vendor/motorola/shamu/qcom/proprietary/qmi_test_service_test:system/bin/qmi-framework-tests/qmi_test_service_test:qcom \
-    vendor/motorola/shamu/qcom/proprietary/qmi_motext_hook:system/bin/qmi_motext_hook:qcom \
-    vendor/motorola/shamu/qcom/proprietary/qmi_simple_ril_test:system/bin/qmi_simple_ril_test:qcom \
     vendor/motorola/shamu/qcom/proprietary/qmuxd:system/bin/qmuxd:qcom \
     vendor/motorola/shamu/qcom/proprietary/qseecomd:system/bin/qseecomd:qcom \
     vendor/motorola/shamu/qcom/proprietary/radish:system/bin/radish:qcom \
-    vendor/motorola/shamu/qcom/proprietary/rundiag:system/bin/rundiag:qcom \
     vendor/motorola/shamu/qcom/proprietary/sensors.qcom:system/bin/sensors.qcom:qcom \
-    vendor/motorola/shamu/qcom/proprietary/test_diag:system/bin/test_diag:qcom \
     vendor/motorola/shamu/qcom/proprietary/thermal-engine:system/bin/thermal-engine:qcom \
     vendor/motorola/shamu/qcom/proprietary/time_daemon:system/bin/time_daemon:qcom \
     vendor/motorola/shamu/qcom/proprietary/usbhub:system/bin/usbhub:qcom \
@@ -57,7 +38,6 @@ PRODUCT_COPY_FILES := \
     vendor/motorola/shamu/qcom/proprietary/cpp_firmware_v1_6_0.fw:system/etc/firmware/cpp_firmware_v1_6_0.fw:qcom \
     vendor/motorola/shamu/qcom/proprietary/cpp_firmware_v1_8_0.fw:system/etc/firmware/cpp_firmware_v1_8_0.fw:qcom \
     vendor/motorola/shamu/qcom/proprietary/flp.conf:system/etc/flp.conf:qcom \
-    vendor/motorola/shamu/qcom/proprietary/qmi_fw.conf:system/etc/qmi_fw.conf:qcom \
     vendor/motorola/shamu/qcom/proprietary/sap.conf:system/etc/sap.conf:qcom \
     vendor/motorola/shamu/qcom/proprietary/sensor_def_qcomdev.conf:system/etc/sensors/sensor_def_qcomdev.conf:qcom \
     vendor/motorola/shamu/qcom/proprietary/thermal-engine-shamu.conf:system/etc/thermal-engine-shamu.conf:qcom \
